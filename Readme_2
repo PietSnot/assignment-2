@@ -1,0 +1,23 @@
+assignment-2
+============
+
+The file 'cachematrix.R' consists of three parts.
+
+part 1 
+simply stated the two functions given as example: makeVector and cachemean.
+I put them in to easily copy then to part 2
+
+part 2
+contains the two functions that we have to make: makeCacheMatrix and cacheSolve.
+These are the two fuctions to be peer reviewed.
+
+part 3
+is pure hobbyism of me. I was not pleased with the two functions, both of part 1 
+and of part 2. I tried to design a set up that would eliminate the 'makeXXX'
+for the user, and secondly to generalize the cahceXXX object somewhat.
+So, istead of cacheMean, cacheSolve, cahceWhatEver, there is now only one object
+cacheGeneralVlue, that can be used for sevral functions.
+If the peer reviewer is interested: by all means, have a look. If not, then
+he/she can safely skip this part and move on to the nexr review.
+
+Piet Muis, 2014-12-18
